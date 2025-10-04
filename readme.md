@@ -39,7 +39,10 @@ This project demonstrates a linear regression approach to predict housing prices
 
 
 ## 📊 Visuals
-Correlation vs Mutual Information
+Correlation 
+<img width="706" height="565" alt="image" src="https://github.com/user-attachments/assets/200f0536-91e5-4e60-81cb-7f1f21a7e521" />
+Mutual Information
+<img width="705" height="564" alt="image" src="https://github.com/user-attachments/assets/10c21f57-55c1-4030-b4da-e299497e2719" />
 
 
 
